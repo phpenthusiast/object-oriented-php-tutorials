@@ -1,6 +1,7 @@
 <?php
 // Exercise solutions for tutorial number 1
-class User {
+class User 
+{
   public $firstName;
   public $lastName;
  
