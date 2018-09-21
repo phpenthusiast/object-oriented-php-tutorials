@@ -8,7 +8,7 @@ class Car {
   public function setModel($model)
   {
     //validate that only certain car models are assigned to the $carModel property
-    $allowedModels = array("Mercedes benz","BMW");
+    $allowedModels = array("Mercedes benz","BMW","Tesla");
  
     if(in_array($model,$allowedModels))
     {

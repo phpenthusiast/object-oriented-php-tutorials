@@ -19,5 +19,5 @@ class User {
 }
  
 $user1 = new User();
-$user1 -> setFirstName('Joe');
+$user1 -> setFirstName('Joe BH');
 echo $user1 -> getFirstName();
