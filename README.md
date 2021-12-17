@@ -1,2 +1,4 @@
 # object-oriented-php-tutorials
-The code for the Object Oriented PHP tutorials in the site http://PHPenthusiast.com 
+The code snippest for the book The essentials of Object Oriented PHP
+https://leanpub.com/the-essentials-of-object-oriented-php
+
