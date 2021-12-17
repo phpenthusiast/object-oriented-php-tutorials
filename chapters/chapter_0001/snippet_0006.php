@@ -1,0 +1,2 @@
+<?php
+$bmw -> color = 'blue';
