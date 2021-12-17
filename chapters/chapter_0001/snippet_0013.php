@@ -1,4 +1,5 @@
 <?php
-class User {
+class User 
+{
     // Your code here
 }
