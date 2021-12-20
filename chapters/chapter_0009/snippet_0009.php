@@ -1,5 +1,6 @@
 <?php
-class Author extends User {
+class Author extends User 
+{
     public function calcScores()
     {
         return $this -> scores =
