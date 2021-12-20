@@ -1,6 +1,5 @@
 <?php
-class User 
-{
+class User {
     public $firstName;
     public $lastName;
     
@@ -9,3 +8,6 @@ class User
         return "hello";
     }
 }
+
+
+$user1 = new User();
