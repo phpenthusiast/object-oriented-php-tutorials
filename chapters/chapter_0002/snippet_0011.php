@@ -1,5 +1,6 @@
 <?php
-class Car {
+class Car 
+{
     // The properties
     public $comp;
     public $color = "beige";
