@@ -19,3 +19,4 @@ class Car
         return " The <b>" . __CLASS__ . "</b> model is: " . $this -> model;
     }
 }
+
