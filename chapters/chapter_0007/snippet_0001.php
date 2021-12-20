@@ -1,1 +1,2 @@
 <?php
+abstract class Car { }
