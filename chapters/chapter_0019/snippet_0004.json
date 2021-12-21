@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "classmap": [
+      "path/to/FirstClass.php",
+      "path/to/directory"
+    ]
+  }
+}
